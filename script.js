@@ -27,7 +27,6 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     }
 
-
     const observerOptions = {
         root: null,
         rootMargin: "0px",
