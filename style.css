@@ -274,6 +274,10 @@ footer { background-color: var(--primary-dark); color: var(--white); padding: 60
         text-align: center;
         max-width: 400px;
     }
+
+     .invest-image img {
+     display: none;
+    }
     
     .cta-box { padding: 30px 20px; }
     .cta-box h2 { font-size: 1.5rem; }
