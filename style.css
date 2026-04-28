@@ -257,7 +257,8 @@ footer { background-color: var(--primary-dark); color: var(--white); padding: 60
 
      .invest-image img {
      display: none;
-    }
+     }
+     
      .hero-text,
     .hero-image {
         width: 100%;
